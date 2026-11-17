@@ -24,11 +24,6 @@ Abaixo, visualizamos a estrutura lógica de um Resource Group no Portal do Azure
 > <sub>Imagem reproduzida de: <a href="https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/overview">Microsoft Learn - Visão Geral do Azure Resource Manager</a></sub>
 
 *O print/diagrama acima ilustra como o Azure Resource Manager (ARM) agrupa logicamente os serviços, facilitando operações como exclusão ou implantação em massa.*
----
-
-## 2. Governança e Segurança (Tags e Locks)
-
-*(Continue seu resumo aqui com os outros conceitos...)*
 
 ---
 
@@ -39,4 +34,3 @@ Abaixo, visualizamos a estrutura lógica de um Resource Group no Portal do Azure
 3.  **Edite o link** no código Markdown acima para apontar para o seu arquivo: `![Sua legenda](./images/seu-print.png)`.
 4.  **Substitua o link da âncora (`<a>`)** para a página exata da documentação da Microsoft de onde você tirou a imagem.
 
-Essa estrutura é profissional, mostra protagonismo e cumpre rigorosamente as normas de referência e direitos autorais. Boa sorte na entrega! 🚀
