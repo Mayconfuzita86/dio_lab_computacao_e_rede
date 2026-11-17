@@ -25,12 +25,4 @@ Abaixo, visualizamos a estrutura lógica de um Resource Group no Portal do Azure
 
 *O print/diagrama acima ilustra como o Azure Resource Manager (ARM) agrupa logicamente os serviços, facilitando operações como exclusão ou implantação em massa.*
 
----
-
-### Como aplicar no seu desafio DIO:
-
-1.  **Crie uma pasta** chamada `images` na raiz do seu repositório no GitHub.
-2.  **Salve o print** ou diagrama que você tirou durante o laboratório ou o diagrama oficial que você quer referenciar dentro dessa pasta (ex: `arquitetura.png`).
-3.  **Edite o link** no código Markdown acima para apontar para o seu arquivo: `![Sua legenda](./images/seu-print.png)`.
-4.  **Substitua o link da âncora (`<a>`)** para a página exata da documentação da Microsoft de onde você tirou a imagem.
 
